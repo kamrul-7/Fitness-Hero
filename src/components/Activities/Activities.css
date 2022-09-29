@@ -1,0 +1,35 @@
+.activities {
+    width: 300px;
+    height: 300px;
+    border-radius: 20px;
+    padding: 7px;
+
+}
+
+.activity-container {
+
+    margin-top: 20px;
+    margin-left: 20px;
+    height: 550px;
+    width: 300px;
+    border: 1px solid #A0A0A7;
+
+}
+
+.item {
+    margin-top: 3px;
+
+
+
+}
+
+.info {
+    padding-left: 20px;
+    padding-right: 5px;
+    padding-top: 10px;
+}
+
+.btn-list {
+    width: 100%;
+    padding: 6px;
+}

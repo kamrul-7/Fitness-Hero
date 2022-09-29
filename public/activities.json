@@ -1,0 +1,66 @@
+[
+    {
+        "id": "124e13b9-2d54-4b2f-a74d-a77b36270d6ead",
+        "name": "Deadlift",
+        "details": "The bread and butter of countless gym routines, this move, if done properly, will predominantly engage your back and legs, while building overall strength for you entire body. If you want to master the deadlift, check out this article.",
+        "age": 23,
+        "img": "https://images.unsplash.com/photo-1605296867304-46d5465a13f1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+        "time": 50
+    },
+    {
+        "id": "13cbc7ed-a61b-4883-9d42-82d7d87642b86",
+        "name": "T-Bar Row",
+        "details": "As the favorite back exercise of Arnold Schwarzenegger himself, the T-bar row transcends all mere mortal workouts simply because of the Austrian Oak’s blessing. Here’s how to do it.",
+        "age": 26,
+        "img": "https://images.unsplash.com/photo-1605296867304-46d5465a13f1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+        "time": 40
+    },
+    {
+        "id": "13cbc7ed-a61b-4883-9d42-862d7d8642b86",
+        "name": "The Bird-Dog",
+        "details": "Sure, you may look a little funny doing it, but this variation on the plank challenges you to keep your back flat and stable. It goes to show that not all essential exercises are about clanging plates and bending bars.",
+        "age": 24,
+        "img": "https://images.unsplash.com/photo-1605296867304-46d5465a13f1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+        "time": 40
+    },
+    {
+        "id": "13cbc7ed-a61b-4883-9d42-825d7d8642b86",
+        "name": "30-Degree Lat Pulldown",
+        "details": "This variation on the traditional pulldown not only strengthens your middle and upper back, it also works your shoulders, biceps, and forearms. ",
+        "age": 25,
+        "img": "https://images.unsplash.com/photo-1605296867304-46d5465a13f1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+        "time": 30
+    },
+    {
+        "id": "13cbc7ed-a61b-4883-9d42-82d47d8642b86",
+        "name": "Pullups",
+        "details": "The pullup is a classic strength-building move that everyone needs to do in the gym. But whatever you do, don’t lose your form in favor of reps. Keep those legs straight for maximum payoff.",
+        "age": 23,
+        "img": "https://images.unsplash.com/photo-1605296867304-46d5465a13f1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+        "time": 35
+    },
+    {
+        "id": "13cbc7ed-a61b-4883-9d42-82d37d8642b86",
+        "name": "Farmer’s Walk & Trap Bar",
+        "details": "This workout may sound silly, but the results are anything but. All you need to do is stand up straight and start walking with some heavy dumbbells in each hand. It’s that simple! Utilize the farmer’s walk as either a warm-up exercise or as a brutal finisher.",
+        "age": 24,
+        "img": "https://images.unsplash.com/photo-1605296867304-46d5465a13f1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+        "time": 30
+    },
+    {
+        "id": "13cbc7ed-a61b-4883-9d42-82d7d28642b86",
+        "name": " Dumbbell Curl",
+        "details": "Staying seated while curling may seem like just a slight adjustment to standing, but you won’t be able to deny how hard your arms are working with this move. Sit on an adjustable bench between 45 and 60 degrees for the ideal effect. ",
+        "age": 23,
+        "img": "https://images.unsplash.com/photo-1605296867304-46d5465a13f1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+        "time": 40
+    },
+    {
+        "id": "13cbc7ed-a61b-4883-9d42-82d7d8642b186",
+        "name": "Standing Barbell Curl",
+        "details": "This traditional bodybuilding move is a staple for building bigger biceps. In a controlled motion, bend your elbows and curl the barbell as close to your shoulders as you can. Pause at the top, then slowly return your arms to their original position.",
+        "age": 25,
+        "img": "https://images.unsplash.com/photo-1605296867304-46d5465a13f1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+        "time": 55
+    }
+]
