@@ -8,3 +8,10 @@
 .header {
     font-family: 'Bebas Neue', cursive;
 }
+
+@media screen and (max-width:1100px) {
+    .header-container {
+        margin-left: 30%;
+
+    }
+}

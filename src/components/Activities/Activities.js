@@ -4,7 +4,7 @@ const Activities = (props) => {
     const { name, details, age, img, time } = props.gym;
     return (
 
-        <div className='activity-container'>
+        <div className='activity-container shadow-lg'>
             <img className='activities' src={img} alt="" />
             <div className='info'>
                 <h5 className='item'><b>{name}</b></h5>

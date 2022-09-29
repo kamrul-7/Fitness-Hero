@@ -1,6 +1,7 @@
-import React, { useEffect, useState } from 'react';
+import React, { Profiler, useEffect, useState } from 'react';
 import Activities from '../Activities/Activities';
 import './Gym.css'
+import profile from '../Profile/profile';
 
 const Gym = () => {
     const [gyms, setGyms] = useState([])
@@ -20,8 +21,9 @@ const Gym = () => {
                     ></Activities>)
                 }
             </div>
-            <div className="cart-container">
 
+            <div className="profile-container">
+                <p>Kamrul Islam</p>
             </div>
         </div>
     );

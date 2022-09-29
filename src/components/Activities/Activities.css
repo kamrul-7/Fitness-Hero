@@ -1,6 +1,6 @@
 .activities {
     width: 300px;
-    height: 300px;
+    height: 200px;
     border-radius: 20px;
     padding: 7px;
 
@@ -10,17 +10,13 @@
 
     margin-top: 20px;
     margin-left: 20px;
-    height: 550px;
+    height: 435px;
     width: 300px;
-    border: 1px solid #A0A0A7;
 
 }
 
 .item {
     margin-top: 3px;
-
-
-
 }
 
 .info {
@@ -31,5 +27,6 @@
 
 .btn-list {
     width: 100%;
-    padding: 6px;
+    padding: 0px;
+    bottom: 0px;
 }
